@@ -1,7 +1,7 @@
 package com.springcamp.boot.web;
 
 import com.springcamp.boot.domain.People;
-import com.springcamp.boot.service.PeopleRepository;
+import com.springcamp.boot.repository.PeopleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

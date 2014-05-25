@@ -2,7 +2,7 @@ package com.springcamp.boot.web;
 
 import com.springcamp.boot.BootSampleApplication;
 import com.springcamp.boot.domain.People;
-import com.springcamp.boot.service.PeopleRepository;
+import com.springcamp.boot.repository.PeopleRepository;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
